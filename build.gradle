@@ -1,4 +1,4 @@
-description = 'Java demo application'
+description = 'Java Test Project'
 version = '1.0'
 
 apply plugin: 'java'
