@@ -1,5 +1,5 @@
 buildCmd: ./gradlew compileJava
-testCmd: ./gradlew test
+testCmd: ./gradlew test -x compileJava
 cbmcArguments:
   java-max-input-array-length: 10
   unwind: 10
